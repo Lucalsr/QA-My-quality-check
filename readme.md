@@ -1,4 +1,4 @@
-# About
+# About:
 Repositório com o objetivo de documentar o progresso do teste trainee da compjunior. 
 
 # Tecnologias para a realização dos testes:
@@ -12,6 +12,6 @@ Repositório com o objetivo de documentar o progresso do teste trainee da compju
 1. **Github Projects** Organizar e planejar os testes.
 2. **Github Issues*** Documentar e reportar os bugs.
 
-# Objetivo 
+# Objetivo:
 Testar de forma abrangente o projeto, pela api e frontend, afim de reportar possíveis problemas que o usuario final pode experienciar, além de dar sugestões para melhorar a usabilidade.
 
