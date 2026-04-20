@@ -10,7 +10,7 @@ Repositório com o objetivo de documentar o progresso do teste trainee da compju
 
 # Tecnologias usadas para a organização e documentação:
 1. **Github Projects** Organizar e planejar os testes.
-2. **Github Issues*** Documentar e reportar os bugs.
+2. **Github Issues** Documentar e reportar os bugs.
 
 # Objetivo:
 Testar de forma abrangente o projeto, pela api e frontend, afim de reportar possíveis problemas que o usuario final pode experienciar, além de dar sugestões para melhorar a usabilidade.
