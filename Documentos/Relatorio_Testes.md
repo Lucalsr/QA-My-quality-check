@@ -29,7 +29,7 @@ O projeto **NaSalinha** é composto por três módulos principais de funcionalid
 
 | Casos Planejados | Casos Testados | Pass | Fail | Taxa de sucesso |
 | :--- | :--- | :--- | :--- | :--- |
-| 24 | 20 | 12 | 8 | 60% |
+| 25 | 21 | 12 | 9 | 60% |
 
 ---
 
@@ -37,7 +37,7 @@ O projeto **NaSalinha** é composto por três módulos principais de funcionalid
 
 | Crítico | Maiores | Baixo | Total |
 | :--- | :--- | :--- | :--- |
-| 2 | 6 | 0 | 8 |
+| 2 | 7 | 0 | 9 |
 
 ## 5. Teste de Regressão
 A fim de exemplificar os testes de regressão, foi simulada a correção do bug em que o usuário conseguia criar uma conta com o cargo de "administrador".
