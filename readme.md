@@ -12,6 +12,16 @@ Repositório com o objetivo de documentar o progresso do teste trainee da compju
 1. **Github Projects** Organizar e planejar os testes.
 2. **Github Issues** Documentar e reportar os bugs.
 
+# Tipos de Teste
+1. Teste Funcional: Total de 12 testes funcionais realizados.
+2. Teste de Api: Total de 8 testes de Api realizado.
+3. Teste de Regressão:
+
+# O que está sendo testada:
+1. Módulo de Autenticação e Acesso (JWT).
+2. Módulo de Check-in.
+3. Módulo de Pontuação e Ranking.
+
 # Objetivo:
 Testar de forma abrangente o projeto, pela api e frontend, afim de reportar possíveis problemas que o usuario final pode experienciar, além de dar sugestões para melhorar a usabilidade.
 
