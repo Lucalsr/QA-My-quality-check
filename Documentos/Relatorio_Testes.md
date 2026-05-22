@@ -15,7 +15,7 @@ O projeto **NaSalinha** é composto por três módulos principais de funcionalid
 | :--- | :--- | :--- |
 | **RF-01** | Cadastro e Verificação (Nome, E-mail, Senha, Código de ativação e Status Pendente) |`C-1`, `C-2`, `C-7`, `C-8`, `R-1`, `R-2`, `R-4`, `Bug-2`, `Bug-3`, `Bug-4` |
 | **RF-02** | Restrição de Login para contas não confirmadas por e-mail | `C-12` |
-| **RF-03** | Controle de Níveis  | `C-9`, `Bug-08` |
+| **RF-03** | Controle de Níveis  | `C-9`, `Bug-8` |
 | **RF-04** | Registro de Check-in | `C-3`, `C-4`, `C-5`, `C-11`, `Bug-6`, `Bug-7` |
 | **RF-05** | Fluxo de Status do Check-in  | `Bug-5` |
 | **RF-06** | Restrição de Propriedade | `C-10`, `R-3` |
