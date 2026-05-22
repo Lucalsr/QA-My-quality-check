@@ -42,11 +42,12 @@ O projeto **NaSalinha** é composto por três módulos principais de funcionalid
 ## 5. Teste de Regressão
 Afim de exemplificar os testes de regressão, foi simulado a correção do bug em que o usuário conseguia criar uma conta com o cargo de "adiministrador".
 Assim, foi "testado" :
-1. Se o usuário conseguiria criar uma conta com o cargo "administrador" através da Api.
+1. Se o usuário conseguiria criar uma conta com o cargo "administrador" através da API.
 2. Se os usuários ainda conseguem criar contas com outros cargos.
-3. Se o é possível ainda fazer login em uma conta "administrador"
+3. Se é possível ainda fazer login em uma conta "administrador"
 4. Se o "administrador" manteve seu acesso completo ao CRUD do sistema.
 
 ## 6. Considerações Finais
 
 O Sistema apresenta falhas que compromentem a segunrança dos usuários e das própias informações do sistema, necessitando assim, de mais trabalho para garantir uma melhor usuabilidade e confiabilidade nesse.
+Sendo assim, altamente recomendável que não seja disponibilizado ao público geral dessa forma.
