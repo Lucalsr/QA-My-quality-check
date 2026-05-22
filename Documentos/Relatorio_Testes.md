@@ -27,27 +27,27 @@ O projeto **NaSalinha** é composto por três módulos principais de funcionalid
 
 ## 3. Visão geral dos Testes
 
-| Casos Planejados | Casos Testados | Pass | Fail |
-| :--- | :--- | :--- | :--- |
-| 24 | 20 | 12 | 8 |
+| Casos Planejados | Casos Testados | Pass | Fail | Taxa de sucesso |
+| :--- | :--- | :--- | :--- | :--- |
+| 24 | 20 | 12 | 8 | 60% |
 
 ---
 
 ## 4. Distribuição de gravidade
 
-| Crítico | Alto | Médio | Baixo |
+| Crítico | Maiores | Baixo | Total |
 | :--- | :--- | :--- | :--- |
-| 2 | 1 | 5 | 0 | 
+| 2 | 6 | 0 | 8 |
 
 ## 5. Teste de Regressão
-Afim de exemplificar os testes de regressão, foi simulado a correção do bug em que o usuário conseguia criar uma conta com o cargo de "adiministrador".
-Assim, foi "testado" :
-1. Se o usuário conseguiria criar uma conta com o cargo "administrador" através da API.
-2. Se os usuários ainda conseguem criar contas com outros cargos.
-3. Se é possível ainda fazer login em uma conta "administrador"
-4. Se o "administrador" manteve seu acesso completo ao CRUD do sistema.
+A fim de exemplificar os testes de regressão, foi simulada a correção do bug em que o usuário conseguia criar uma conta com o cargo de "administrador".
+Após a correção validou-se se:
+1. O usuário conseguiria criar uma conta com o cargo "administrador" através da API. (Esperado: Bloqueado)
+2. Os usuários ainda conseguem criar contas com outros cargos. (Esperado: Sucesso)
+3. É possível ainda fazer login em uma conta "administrador". (Esperado: Sucesso)
+4. O "administrador" manteve seu acesso completo ao CRUD do sistema. (Esperado: Sucesso)
 
 ## 6. Considerações Finais
 
-O Sistema apresenta falhas que compromentem a segunrança dos usuários e das própias informações do sistema, necessitando assim, de mais trabalho para garantir uma melhor usuabilidade e confiabilidade nesse.
-Sendo assim, altamente recomendável que não seja disponibilizado ao público geral dessa forma.
+O Sistema apresenta falhas críticas que compromentem a segurança dos usuários e a integridade das própias informações cadastradas. Desse modo, é necessário um trabalho de correção e reteste para garantir uma melhor usuabilidade e confiabilidade do site.
+Sendo assim, é altamente recomendável que não seja disponibilizado ao público geral no estado atual.
