@@ -26,9 +26,9 @@ Repositório que possui como objetivo documentar o progresso do teste trainee da
 Testar de forma abrangente o projeto, pela api e frontend, afim de reportar possíveis problemas que o usuário final pode experienciar, e que possam comprometer o confiabilidade do sistema.
 
 # Resumo dos Resultados:
-**Total de Casos Planejados:** 24
-**Total de Casos Executados:** 20 
-**Taxa de Sucesso:** $60\%$ dos testes executados passaram com sucesso.
-**Bugs Encontrados:** 8 defeitos reportados.
+* **Total de Casos Planejados:** 24
+* **Total de Casos Executados:** 20 
+* **Taxa de Sucesso:** $60\%$ dos testes executados passaram com sucesso.
+* **Bugs Encontrados:** 8 defeitos reportados.
 > **Nota:** O relatório final detalhado com as métricas de execução e distribuição de severidade pode ser consultado no documento `Relatorio_de_Testes.md` deste repositório.
 
