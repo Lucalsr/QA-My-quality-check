@@ -1,5 +1,5 @@
 # About:
-Repositório com o objetivo de documentar o progresso do teste trainee da compjunior. 
+Repositório que possui como objetivo documentar o progresso do teste trainee da compjunior. 
 
 # Tecnologias para a realização dos testes:
 1. **Docker**  Subir localmente o projeto.
@@ -15,7 +15,7 @@ Repositório com o objetivo de documentar o progresso do teste trainee da compju
 # Tipos de Teste
 1. Teste Funcional: Total de 12 testes funcionais realizados.
 2. Teste de Api: Total de 8 testes de Api realizado.
-3. Teste de Regressão:
+3. Teste de Regressão: Total de 4 teste de regressão.
 
 # O que está sendo testada:
 1. Módulo de Autenticação e Acesso (JWT).
@@ -23,5 +23,5 @@ Repositório com o objetivo de documentar o progresso do teste trainee da compju
 3. Módulo de Pontuação e Ranking.
 
 # Objetivo:
-Testar de forma abrangente o projeto, pela api e frontend, afim de reportar possíveis problemas que o usuario final pode experienciar, além de dar sugestões para melhorar a usabilidade.
+Testar de forma abrangente o projeto, pela api e frontend, afim de reportar possíveis problemas que o usuário final pode experienciar, e que possam comprometer o confiabilidade do sistema.
 
