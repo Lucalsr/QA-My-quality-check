@@ -3,8 +3,8 @@
 ## 1. Visão Geral do Sistema e Escopo
 
 O projeto **NaSalinha** é composto por três módulos principais de funcionalidades:
-1. **Módulo de Autenticação e Acesso (JWT):** Controla o registro de usuários, fluxo de ativação por e-mail, restrição de acessos e controle de permissões baseado em funções (RBAC) com foco no perfil `ADMINISTRADOR`.
-2. **Módulo de Check-in (Mídia):** Gerencia o registro diário de atividades por meio do envio de imagens associadas a temporadas ativas, tratando regras de concorrência temporal e integridade de arquivos.
+1. **Módulo de Autenticação e Acesso (JWT):** Controla o registro de usuários, fluxo de ativação por e-mail, restrição de acessos e controle de permissões baseado em funções.
+2. **Módulo de Check-in:** Gerencia o registro de atividades por meio do envio de imagens associadas a temporadas ativas, tratando regras de concorrência temporal e integridade de arquivos.
 3. **Módulo de Pontuação e Ranking:** Regula a concessão automática de pontos baseada em check-ins válidos, estornos de pontuação e exibição do ranking ordenado.
 
 ---
@@ -50,13 +50,3 @@ Assim, foi "testado" :
 ## 6. Considerações Finais
 
 O Sistema apresenta falhas que compromentem a segunrança dos usuários e das própias informações do sistema, necessitando assim, de mais trabalho para garantir uma melhor usuabilidade e confiabilidade nesse.
-
-
-
-
-
-
-
-    * Não há cenários explícitos para validar o comportamento do servidor quanto à exclusão de arquivos temporários (**RNF-02**), o que pode ser mitigado por testes automatizados de infraestrutura ou testes unitários na service de mídia.
-Relatorio_de_Testes_NaSalinha.md
-Exibindo Relatorio_de_Testes_NaSalinha.md.
