@@ -13,15 +13,15 @@ O projeto **NaSalinha** é composto por três módulos principais de funcionalid
 
 | Código Requisito | Descrição do Requisito | IDs dos Casos de Teste Associados |
 | :--- | :--- | :--- |
-| **RF-01** | Cadastro e Verificação (Nome, E-mail, Senha, Código de ativação e Status Pendente) | `#3`, `#4`, `#6`, `#7`, `#10`, `#17`, `#18`, `#23`, `#24`, `#26` |
-| **RF-02** | Restrição de Login para contas não confirmadas por e-mail | `#22` |
-| **RF-03** | Controle de Níveis  | `#12`, `#19` |
-| **RF-04** | Registro de Check-in | `#8`, `#9`, `#13`, `#14`, `#15`, `#21` |
-| **RF-05** | Fluxo de Status do Check-in  | `#11` |
-| **RF-06** | Restrição de Propriedade | `#20`, `#25` |
-| **RF-07** | Atribuição de Pontos e atualização automática do ranking | `#16` |
-| **RF-08** | Consistência de Saldo (Subtração automática ao remover check-in) | `#1` |
-| **RF-09** | Regras de Ranking | `#14` |
+| **RF-01** | Cadastro e Verificação (Nome, E-mail, Senha, Código de ativação e Status Pendente) |`C-1`, `C-2`, `C-7`, `C-8`, `R-1`, `R-2`, `R-4`, `Bug-2`, `Bug-3`, `Bug-4` |
+| **RF-02** | Restrição de Login para contas não confirmadas por e-mail | `C-12` |
+| **RF-03** | Controle de Níveis  | `C-9`, `Bug-08` |
+| **RF-04** | Registro de Check-in | `C-3`, `C-4`, `C-5`, `C-11`, `Bug-6`, `Bug-7` |
+| **RF-05** | Fluxo de Status do Check-in  | `Bug-5` |
+| **RF-06** | Restrição de Propriedade | `C-10`, `R-3` |
+| **RF-07** | Atribuição de Pontos e atualização automática do ranking | `C-6` |
+| **RF-08** | Consistência de Saldo (Subtração automática ao remover check-in) | `Bug-1` |
+| **RF-09** | Regras de Ranking | `Bug-7` |
 
 ---
 
