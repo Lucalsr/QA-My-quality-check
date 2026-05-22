@@ -21,7 +21,7 @@ O projeto **NaSalinha** é composto por três módulos principais de funcionalid
 | **RF-06** | Restrição de Propriedade | `#20`, `#25` |
 | **RF-07** | Atribuição de Pontos e atualização automática do ranking | `#16` |
 | **RF-08** | Consistência de Saldo (Subtração automática ao remover check-in) | `#1` |
-| **RF-09** | Regras de Ranking | Mapeado em conjunto com as validações de intervalo do `#14` |
+| **RF-09** | Regras de Ranking | `#14` |
 
 ---
 
